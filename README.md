@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @teddyyeo, sophomore at Korea University, majoring in smart security
 - 👀 I’m interested in hacking and AI
 - 🌱 I’m currently learning c, asm, python
-- ✨ I'm studying blockchain(solidity & ethrerium)
+- ✨ I'm studying blockchain(solidity & ethereum)
 - 📫 How to reach me: haribozyme@korea.ac.kr
 
 <!---
